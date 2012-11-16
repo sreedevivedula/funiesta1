@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Funiesta-Core/modules/Funiesta-Web/src"/>
+	<classpathentry kind="src" path="Funiesta-Core/modules/login/src/main/java"/>
+	<classpathentry excluding="main/java/" kind="src" path="Funiesta-Core/modules/login/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/mybatis-3.1.1.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/postgresql-9.2-1002.jdbc4 2.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/postgresql-9.2-1002.jdbc4 3.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/postgresql-9.2-1002.jdbc4.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/postgresql-9.2-1002.jdbc4.jar.cpgz"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="Funiesta-Core/lib/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
